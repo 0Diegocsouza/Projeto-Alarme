@@ -1,8 +1,8 @@
-Sistema de Alarme com Arduino no Tinkercad
+<h1>Sistema de Alarme com Arduino no Tinkercad</h1>
 
 Este projeto consiste em um sistema de alarme desenvolvido no Tinkercad utilizando Arduino, sensor PIR de movimento, botões para acionamento do alarme e uma tela LED. O sistema foi programado utilizando a linguagem C# (C++ para Arduino).
 
-Componentes Utilizados:
+<h2>Componentes Utilizados:</h2>
 
 Arduino Uno: Microcontrolador principal.
 
@@ -16,7 +16,7 @@ Buzzer: Emite um som de alerta quando o alarme é acionado.
 
 Sensor de Luz (LDR): Detecta a luminosidade do ambiente para armar ou suspender o alarme.
 
-Funcionamento do Sistema:
+<h2>Funcionamento do Sistema:</h2>
 
 O sistema de alarme opera com base na luminosidade do ambiente e na detecção de movimento:
 
@@ -28,6 +28,8 @@ Detecção de Movimento: Se o sensor PIR detectar movimento enquanto o alarme es
 
 Abertura de Janela/Porta: Se um dos botões for pressionado (simulando a abertura de uma janela ou porta) enquanto o alarme estiver armado, a mensagem correspondente é exibida e o buzzer é acionado.
 
-Codigo Fonte:
+<h2>Codigo Fonte:</h2>
 
 https://www.tinkercad.com/things/3LWOi0WnxlR-alarme/editel?returnTo=%2Fthings%2F3LWOi0WnxlR-alarme&sharecode=ydPFH8S-45sOV0Sa4ydRGxZbYwbKWNOjy4fImv3kqiA
+
+<img src="https://github.com/0Diegocsouza/Projeto-Alarme/blob/main/ALARME.png">
